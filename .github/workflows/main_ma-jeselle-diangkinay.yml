@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'ma-jeselle-diangkinay'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_62F5D510DE8441588147973B7D7D995F }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A2C8C111E71B4B868CD817913EF6E28E }}
           package: .
