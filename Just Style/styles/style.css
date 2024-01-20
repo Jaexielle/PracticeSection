@@ -1,0 +1,6 @@
+.backgroundd-img{
+    background-image: url('../images/UIimages/header.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
