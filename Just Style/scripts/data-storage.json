@@ -1,0 +1,72 @@
+[
+    {
+        "imgSrc": "./images/UIimages/logo.png",
+        "title": "Lorem ipsum dolor sit amet.",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed et augue vel velit posuere tincidunt.",
+        "price": "$ 2000",
+        "categories": ["Women's", "Pants"]
+    },
+    {
+        "imgSrc": "./images/UIimages/logo.png",
+        "title": "Lorem ipsum dolor sit amet.",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed et augue vel velit posuere tincidunt.",
+        "price": "$ 2000",
+        "categories": ["Women's", "Pants"]
+    },
+    {
+        "imgSrc": "./images/UIimages/logo.png",
+        "title": "Lorem ipsum dolor sit amet.",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed et augue vel velit posuere tincidunt.",
+        "price": "$ 2000",
+        "categories": ["Women's", "Pants"]
+    },
+    {
+        "imgSrc": "./images/UIimages/logo.png",
+        "title": "Lorem ipsum dolor sit amet.",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed et augue vel velit posuere tincidunt.",
+        "price": "$ 2000",
+        "categories": ["Women's", "Pants"]
+    },
+    {
+        "imgSrc": "./images/UIimages/logo.png",
+        "title": "Lorem ipsum dolor sit amet.",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed et augue vel velit posuere tincidunt.",
+        "price": "$ 2000",
+        "categories": ["Women's", "Pants"]
+    },
+    {
+        "imgSrc": "./images/UIimages/logo.png",
+        "title": "Lorem ipsum dolor sit amet.",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed et augue vel velit posuere tincidunt.",
+        "price": "$ 2000",
+        "categories": ["Women's", "Pants"]
+    },
+    {
+        "imgSrc": "./images/UIimages/logo.png",
+        "title": "Lorem ipsum dolor sit amet.",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed et augue vel velit posuere tincidunt.",
+        "price": "$ 2000",
+        "categories": ["Women's", "Pants"]
+    },
+    {
+        "imgSrc": "./images/UIimages/logo.png",
+        "title": "Lorem ipsum dolor sit amet.",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed et augue vel velit posuere tincidunt.",
+        "price": "$ 2000",
+        "categories": ["Women's", "Pants"]
+    },
+    {
+        "imgSrc": "./images/UIimages/logo.png",
+        "title": "Lorem ipsum dolor sit amet.",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed et augue vel velit posuere tincidunt.",
+        "price": "$ 2000",
+        "categories": ["Women's", "Pants"]
+    },
+    {
+        "imgSrc": "./images/UIimages/logo.png",
+        "title": "Lorem ipsum dolor sit amet.",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed et augue vel velit posuere tincidunt.",
+        "price": "$ 2000",
+        "categories": ["Women's", "Pants"]
+    }
+]
